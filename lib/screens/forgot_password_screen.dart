@@ -42,7 +42,7 @@ class ForgotPasswordScreen extends StatelessWidget {
                 vertical: 10,
               ),
               child: Text(
-                "Don't worry! It occurs. Please enter the email address linked with your account.",
+                "It's okay, everyone forgets things. Enter your email address so we can fix together",
                 style: TextStyle(
                   color: Color(0xFF8391A1),
                   fontSize: 16,
@@ -116,7 +116,7 @@ class ForgotPasswordScreen extends StatelessWidget {
                 ],
               ),
             ),
-            const Spacer(),
+
             Row(
               mainAxisAlignment: MainAxisAlignment.center,
               children: [

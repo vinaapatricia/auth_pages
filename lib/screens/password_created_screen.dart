@@ -14,7 +14,7 @@ class PasswordCreatedScreen extends StatelessWidget {
           crossAxisAlignment: CrossAxisAlignment.center,
           children: [
             Image.asset(
-              "assets/tick.png",
+              "",
             ),
             const SizedBox(height: 20),
             const Padding(
